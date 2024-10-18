@@ -19,7 +19,7 @@ Follow the steps below to get the weather app running:
 Clone the repository to your local machine using the following command:
 bash
 Copy code
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/dhiraj962/Weather_Monitoring.git
 Or download the ZIP file and extract it.
 
 3. Open the Project in a Code Editor
